@@ -1,3 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=00878A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Alinne.;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</div>
+
 ### Hi there 👋
 
 <!--
