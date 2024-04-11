@@ -8,6 +8,14 @@
 <br>
 
 ### Hi there 👋
+<br>
+## Stats 📊
+
+<span align="center">
+
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso)](https://github.com/alinnecardoso/github-readme-stats)
+
+</span>
 
 <br>
 
