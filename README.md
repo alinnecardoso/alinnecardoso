@@ -5,8 +5,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=7E00C7&center=true&vCenter=true&width=600&lines=Hello!+I+am+Alinne.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <!-- 00878A -->
 
 </div>
+****
 
 ### Hi there 👋
+
+<br>
+
+## Stats 📊
+
+<span align="center">
+
+    
+![sabrainas's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso&layout=compact&theme=dracula) 
+
+</span>
 
 <!--
 **alinnecardoso/alinnecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
