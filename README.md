@@ -15,9 +15,14 @@
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=transparent&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=false&theme=transparent&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
+<br>
+<span>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso)](https://github.com/alinnecardoso/github-readme-stats)
+</span>
+
 <hr>
 
 <br>
