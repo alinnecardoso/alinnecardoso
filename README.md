@@ -14,7 +14,7 @@
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=transparent&title_color=583296&text_color=fff&icon_color=583296)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=transparent&title_color=583296&text_color=fff&icon_color=583296&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
 
