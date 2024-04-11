@@ -9,6 +9,7 @@
 
 ### Hi there 👋
 <br>
+<hr>
 
 ### Stats 📊
 
@@ -17,6 +18,7 @@
 [![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=transparent&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
+<hr>
 
 <br>
 
