@@ -9,11 +9,12 @@
 
 ### Hi there 👋
 <br>
-## Stats 📊
+
+### Stats 📊
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=dark#gh-dark-mode-only&title_color=7E00C7)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
 
