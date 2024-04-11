@@ -13,7 +13,7 @@
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=transparent)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
 
