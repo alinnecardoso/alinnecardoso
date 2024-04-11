@@ -2,7 +2,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=7E00C7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+Hello!+I+am+Alinne.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <!-- 00878A -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=7E00C7&center=true&vCenter=true&width=600&lines=He%C3%llo1%2!+I+am+Alinne.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <!-- 00878A -->
 
 </div>
 
