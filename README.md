@@ -6,9 +6,6 @@
 
 </div>
 <br>
-
-### Hi there 👋
-<br>
 <hr>
 
 ### Stats 📊
