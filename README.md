@@ -2,7 +2,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=7E00C7&center=true&vCenter=true&width=600&lines=Hello!+I+am+Alinne.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <!-- 00878A -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=813dd1&center=true&vCenter=true&width=600&lines=Hello!+I+am+Alinne.;Welcome+to+my+GitHub!)](https://git.io/typing-svg) <!-- 00878A  7E00C7-->
 
 </div>
 <br>
@@ -12,7 +12,7 @@
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&theme=transparent&title_color=7100B3&text_color=fff&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats) <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&theme=transparent&title_color=813dd1&text_color=fff&bg_color=282a36)] <!-- 7100B3 -->(https://github.com/alinnecardoso/github-readme-stats) <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
 
 </span>
 
