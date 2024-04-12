@@ -12,7 +12,7 @@
 
 <span align="center">
 
-[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&theme=transparent&title_color=813dd1&text_color=fff&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats) <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso&title_color=7100B3&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
+[![alinnecardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinnecardoso&theme=transparent&title_color=813dd1&text_color=fff&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats) <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinnecardoso&title_color=813dd1&text_color=fff&icon_color=7100B3&bg_color=282a36)](https://github.com/alinnecardoso/github-readme-stats)
 <!-- 7100B3 -->
 </span>
 
