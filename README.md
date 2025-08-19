@@ -10,36 +10,37 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Eu sou a **Alinne Cardoso**, desenvolvedora apaixonada por tecnologia, aprendizado contínuo e soluções criativas. 💜  
-Atualmente focada em **[coloque aqui seu stack principal, ex: Front-end com React e JavaScript]**, desenvolvendo projetos que unem design, performance e boas práticas.
+Olá! Eu sou a **Alinne Cardoso**, profissional da área de tecnologia com foco em **Análise de Dados**. 💜  
+Tenho me dedicado ao uso de ferramentas como **Python**, **Excel** e **Power BI** para automatizar tarefas, gerar relatórios e apoiar decisões baseadas em dados.
 
-- 💼 Atualmente trabalhando com: [ex: React, Node.js, Tailwind]
-- 🌱 Estudando: [ex: TypeScript, Next.js]
-- 💡 Interesses: UI/UX, acessibilidade, open source e boas práticas de código
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: [ex: amo desafios de lógica e design criativo]
+- 💼 Atualmente atuando com: **automação de relatórios com Python**, **Excel avançado** e **Power BI**
+- 🌱 Estudando: **Pandas**, **visualização de dados** e os fundamentos de **Machine Learning**
+- 🤖 Interesses: análise de dados aplicada ao dia a dia e automação de tarefas repetitivas
+- ⚡ Curiosidade: adoro criar soluções simples e eficientes que facilitam a vida de quem usa
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Construção
 
-- 🎨 [**Projeto A**](https://github.com/alinnecardoso/projeto-a) — Aplicação web com foco em acessibilidade e design responsivo.  
-- 💬 [**Projeto B**](https://github.com/alinnecardoso/projeto-b) — API REST desenvolvida com Node.js para gestão de tarefas.  
-- 📚 [**Projeto C**](https://github.com/alinnecardoso/projeto-c) — Plataforma educacional com autenticação e banco de dados Firebase.  
+No momento estou focando na prática e aprimoramento das minhas habilidades em automação e análise de dados.  
+Ainda não possuo repositórios públicos nesta área, mas estou trabalhando em soluções voltadas para:
 
-> _*Dica:* Edite os nomes, links e descrições acima conforme seus projetos reais._
+- 📈 **Automação de relatórios** com Python (uso de bibliotecas como `pandas` e `openpyxl`)
+- 📊 **Análises simples** a partir de planilhas Excel com tratamento de dados em Python
+- 📌 **Organização de dados** para melhorar a visualização em dashboards Power BI
 
 ---
 
@@ -57,7 +58,7 @@ Atualmente focada em **[coloque aqui seu stack principal, ex: Front-end com Reac
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]www.linkedin.com/in/alinne-martins-cardoso-b86b02287)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alinne-martins-cardoso-b86b02287)  
 - 📧 Email: alinne14cardoso@email.com  
 
 ---
@@ -72,4 +73,3 @@ Atualmente focada em **[coloque aqui seu stack principal, ex: Front-end com Reac
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=583296&height=120&section=footer"/>
-
