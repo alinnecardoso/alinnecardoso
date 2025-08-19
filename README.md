@@ -29,7 +29,6 @@ Atualmente focada em **[coloque aqui seu stack principal, ex: Front-end com Reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <!-- Adicione mais ícones conforme necessário -->
 </div>
 
 ---
@@ -58,9 +57,8 @@ Atualmente focada em **[coloque aqui seu stack principal, ex: Front-end com Reac
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alinnecardoso)  
-- 📧 Email: alinne@email.com  
-- 🌐 [Portfólio](https://seuportfolio.com) <!-- Se tiver -->
+- 💼 [LinkedIn]www.linkedin.com/in/alinne-martins-cardoso-b86b02287)  
+- 📧 Email: alinne14cardoso@email.com  
 
 ---
 
