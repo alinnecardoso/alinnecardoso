@@ -63,13 +63,6 @@ Ainda não possuo repositórios públicos nesta área, mas estou trabalhando em 
 
 ---
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/alinnecardoso?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/alinnecardoso?style=social)
-
-</div>
-
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=583296&height=120&section=footer"/>
